@@ -10,6 +10,7 @@ The code of FRE
 * scikit-learn==1.3.2
 * seaborn==0.13.2
 * wandb==0.18.1
+* prettytable==3.11.0
 
 ## Running the code
 The optimal hyperparameters setting of FRE is written in FRE.py. To reproduce our results, please run:
